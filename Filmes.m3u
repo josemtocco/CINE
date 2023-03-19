@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", Em Uma Ilha Bem Distante (2023)
+http://esrv.cc:80/movie/vQZcas7Nyt/O3d01wFRkf/96099.mp4
+
 #EXTINF:0 type="video" channelId="-1", Destemida (2023)
 http://assista.pro:80/movie/5511987667533/84039524/268221.mp4
 
@@ -35,6 +38,8 @@ http://dnsbr.tk:80/movie/59754979270858/243036780754/541913.mp4
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
 https://play.prod.gcp.vix.services/spirou-fantasio_pt/spirou-fantasio_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:0 type="video" channelId="-1", Missão de Honra
+https://play.prod.gcp.vix.services/hurricane_pt/hurricane_pt_1-1/play_v1_hls_1080p.m3u8
 
 
 #EXTINF:0 type="video" channelId="-1", Demonios 2017
