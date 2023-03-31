@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", Roubo pelos Ares (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/309061.mp4
+#EXTINF:0 type="video" channelId="-1", Duro de Atuar (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/300765.mp4
+
 #EXTINF:0 type="video" channelId="-1", Em Uma Ilha Bem Distante (2023)
 http://esrv.cc:80/movie/vQZcas7Nyt/O3d01wFRkf/96099.mp4
 
