@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:0 type="video" channelId="-1", Os Reis do Mundo (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1077988.mp4
+#EXTINF:0 type="video" channelId="-1",Dead Zone: Operação Resgate (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1078440.mp4
+
 #EXTINF:0 type="video" channelId="-1", Roubo pelos Ares (2023)
 http://7go.xyz:8080/movie/zogbi11/982451290/309061.mp4
 #EXTINF:0 type="video" channelId="-1", Duro de Atuar (2023)
