@@ -3,25 +3,26 @@
 http://lishb.com:8080/movie/7924193672/8245089073/1077988.mp4
 #EXTINF:0 type="video" channelId="-1",Dead Zone: Operação Resgate (2023)
 http://lishb.com:8080/movie/7924193672/8245089073/1078440.mp4
-#EXTINF:0 type="video" channelId="-1", Gato de Botas 2: O Último Pedido (2023)
-http://lishb.com:8080/movie/7924193672/8245089073/1077975.mp4
-
-#EXTINF:0 type="video" channelId="-1", Um Pacto de Amizade (2023)" 
-http://7go.xyz:8080/movie/27999818772/use2799/309378.mp4
-
-#EXTINF:0 type="video" channelId="-1", Fúrias Femininas (2023)"
-http://7go.xyz:8080/movie/2AmUouCm/MmKGdCQN/309375.mp4
-
-#EXTINF:0 type="video" channelId="-1", A Aventura de ARI: Meu Amigo Robô (2022)
-http://7go.xyz:8080/movie/27999818772/use2799/197088.mp4
-#EXTINF:0 type="video" channelId="-1", Roubo pelos Ares (2023)
-http://7go.xyz:8080/movie/27999818772/use2799/309061.mp4
-#EXTINF:0 type="video" channelId="-1", Duro de Atuar (2023)
-http://7go.xyz:8080/movie/27999818772/use2799/300765.mp4
-#EXTINF:0 type="video" channelId="-1", Em Uma Ilha Bem Distante (2023)
-http://7go.xyz:8080/movie/27999818772/use2799/303476.mp4
-#EXTINF:0 type="video" channelId="-1", Uma Festa de Arromba (2023)
-http://7go.xyz:8080/movie/27999818772/use2799/293627.mp4
+#EXTINF:0 type="video" channelId="-1", Distrito 666 (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1077986.mp4
+#EXTINF:0 type="video" channelId="-1", Inspetor Aranha (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1077985.mp4
+#EXTINF:0 type="video" channelId="-1", M3GAN (2023) DUB
+http://lishb.com:8080/movie/7924193672/8245089073/1078143.mp4
+#EXTINF:0 type="video" channelId="-1", Detetive Knight: Independência (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1078445.mp4
+#EXTINF:0 type="video" channelId="-1", American Murderer (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1078572.mp4
+#EXTINF:0 type="video" channelId="-1", Crime na Rodovia Paraíso (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1078784.mp4
+#EXTINF:0 type="video" channelId="-1", Um Lugar Bem Longe Daqui (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1078960.mp4
+#EXTINF:0 type="video" channelId="-1", Alerta Máximo (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1079260.mp4
+#EXTINF:0 type="video" channelId="-1", Trem-Bala (2023)
+http://lishb.com:8080/movie/7924193672/8245089073/1079334.mp4
+#EXTINF:0 type="video" channelId="-1", Um Paraíso Perigoso (2022)
+http://lishb.com:8080/movie/7924193672/8245089073/1079369.mp4
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
@@ -31,5 +32,3 @@ https://play.prod.gcp.vix.services/spirou-fantasio_pt/spirou-fantasio_pt_1-1/pla
 https://play.prod.gcp.vix.services/hurricane_pt/hurricane_pt_1-1/play_v1_hls_1080p.m3u8
 
 
-#EXTINF:0 type="video" channelId="-1", Demonios 2017
-https://archive.org/download/demonios.-2017/Demonios.2017.mp4
