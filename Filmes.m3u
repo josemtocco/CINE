@@ -1,35 +1,50 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", Roubo pelos Ares (2023)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38579.mp4
+#EXTINF:0 type="video" channelId="-1", Desapega! (2023)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38599.mp4
+#EXTINF:0 type="video" channelId="-1",Tetris (2023)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38608.mp4
+#EXTINF:0 type="video" channelId="-1", At Midnight (2023)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38685.mp4
+#EXTINF:0 type="video" channelId="-1", Sharper: Uma Vida de Trapaças (2023)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38718.mp4
+#EXTINF:0 type="video" channelId="-1", Na Palma da Mão (2023)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38720.mp4
+#EXTINF:0 type="video" channelId="-1", REV: Adrenalina Total (2020)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38725.mp4
+#EXTINF:0 type="video" channelId="-1", Detetive Knight: Redenção (2022)
+http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38738.mp4
+
+
 #EXTINF:0 type="video" channelId="-1", Os Reis do Mundo (2023)
 http://lishb.com:8080/movie/7924193672/8245089073/1077988.mp4
 #EXTINF:0 type="video" channelId="-1",Dead Zone: Operação Resgate (2023)
 http://lishb.com:8080/movie/7924193672/8245089073/1078440.mp4
-#EXTINF:0 type="video" channelId="-1", American Murderer (2023)
-http://lishb.com:8080/movie/7924193672/8245089073/1078572.mp4
 #EXTINF:0 type="video" channelId="-1", Crime na Rodovia Paraíso (2023)
 http://lishb.com:8080/movie/7924193672/8245089073/1078784.mp4
 #EXTINF:0 type="video" channelId="-1", Fuga pela Fronteira (2020)
 http://lishb.com:8080/movie/7924193672/8245089073/1072062.mp4
 #EXTINF:0 type="video" channelId="-1", O Guardião Invisível (2017)
 http://lishb.com:8080/movie/7924193672/8245089073/1071920.mp4
-#EXTINF:0 type="video" channelId="-1", Golpe Duplo (2015)
-http://lishb.com:8080/movie/7924193672/8245089073/1071500.mp4
 #EXTINF:0 type="video" channelId="-1", 90 Minutos no Paraíso (2015)
 http://lishb.com:8080/movie/7924193672/8245089073/1071964.mp4
-#EXTINF:0 type="video" channelId="-1", A Magia de um Sonho (2011)
-http://lishb.com:8080/movie/7924193672/8245089073/1071399.mp4
 #EXTINF:0 type="video" channelId="-1", Além da Vida (2010)
 http://lishb.com:8080/movie/7924193672/8245089073/1071474.mp4
 #EXTINF:0 type="video" channelId="-1", As Golpistas (2019)
 http://lishb.com:8080/movie/7924193672/8245089073/1072049.mp4
 #EXTINF:0 type="video" channelId="-1", Inimigos Íntimos (2018)
 http://lishb.com:8080/movie/7924193672/8245089073/1072067.mp4
-#EXTINF:0 type="video" channelId="-1", Hancock (2008)
-http://lishb.com:8080/movie/7924193672/8245089073/1072168.mp4
 #EXTINF:0 type="video" channelId="-1", Cão Selvagem (2017)
 http://lishb.com:8080/movie/7924193672/8245089073/1072490.mp4
 
 #EXTINF:0 type="video" channelId="-1", ARMADILHA DO CAÇADOR (2021)
 http://ncw.one:80/movie/sw0huy2u/wjw0gl3ctz/134780.mp4
+
+#EXTINF:0 type="video" channelId="-1", Ilha Da Aventura
+http://suatv.fun:80/movie/132012664941/686450403564/720821.mp4
+#EXTINF:0 type="video" channelId="-1", A Última Aventura De Robin Hood
+http://suatv.fun:80/movie/132012664941/686450403564/721050.mp4
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
