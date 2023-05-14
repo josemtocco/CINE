@@ -55,6 +55,9 @@ http://suatv.fun:80/movie/132012664941/686450403564/720821.mp4
 #EXTINF:0 type="video" channelId="-1", A Última Aventura De Robin Hood
 http://suatv.fun:80/movie/132012664941/686450403564/721050.mp4
 
+#EXTINF:0 type="video" channelId="-1", Uma Festa de Arromba (2023)
+http://cs21.xyz:80/movie/madu79/28310703/1165175.mp4
+
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
