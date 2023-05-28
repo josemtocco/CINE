@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1", A Mãe
-https://s-delivery45.mxdcontent.net/v/a9083d7e004ea464209df2e7c0c72d07.mp4?s=2lkY8vM_e2J0-VTU-yfGaQ&e=1685248813&_t=1685227696
-
 #EXTINF:0 type="video" channelId="-1", Roubo pelos Ares (2023)
 http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38579.mp4
 #EXTINF:0 type="video" channelId="-1", Desapega! (2023)
@@ -26,8 +23,6 @@ http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/14075.mp4
 http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/14438.mkv
 #EXTINF:0 type="video" channelId="-1",Perseguição Explosiva (2017)
 http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/9973.mp4
-#EXTINF:0 type="video" channelId="-1", Busca Explosiva (2006)
-http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/10680.mkv
 
 #EXTINF:0 type="video" channelId="-1", Os Reis do Mundo (2023)
 http://lishb.com:8080/movie/7924193672/8245089073/1077988.mp4
@@ -79,6 +74,12 @@ http://meuplay.shop:80/movie/4524973288/8969652539/87116.mp4
 
 #EXTINF:0 type="video" channelId="-1", A Rebelião (2019)
 http://meuplay.shop:80/movie/25678223079/98902315232/11439.mp4
+#EXTINF:0 type="video" channelId="-1", A Águia da Legião Perdida (2011)
+http://meuplay.shop:80/movie/25678223079/98902315232/11645.mp4
+#EXTINF:0 type="video" channelId="-1", Alerta Lobo (2019)
+http://meuplay.shop:80/movie/25678223079/98902315232/11156.mp4
+#EXTINF:0 type="video" channelId="-1", Alfa (2018)
+http://meuplay.shop:80/movie/25678223079/98902315232/11160.mp4
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
