@@ -13,8 +13,6 @@ http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38718.mp4
 http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38720.mp4
 #EXTINF:0 type="video" channelId="-1", REV: Adrenalina Total (2020)
 http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38725.mp4
-#EXTINF:0 type="video" channelId="-1", Detetive Knight: Redenção (2022)
-http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/38738.mp4
 #EXTINF:0 type="video" channelId="-1", Decisão de Risco (2015)
 http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/13812.mkv
 #EXTINF:0 type="video" channelId="-1", Os Agentes do Destino (2011)
@@ -72,14 +70,18 @@ http://meuplay.shop:80/movie/3ipzcy89/e0j4yn30/87114.mp4
 #EXTINF:0 type="video" channelId="-1", Royalteen: Princesa Margrethe (2023)
 http://meuplay.shop:80/movie/4524973288/8969652539/87116.mp4
 
-#EXTINF:0 type="video" channelId="-1", A Rebelião (2019)
-http://meuplay.shop:80/movie/25678223079/98902315232/11439.mp4
 #EXTINF:0 type="video" channelId="-1", A Águia da Legião Perdida (2011)
 http://meuplay.shop:80/movie/25678223079/98902315232/11645.mp4
 #EXTINF:0 type="video" channelId="-1", Alerta Lobo (2019)
 http://meuplay.shop:80/movie/25678223079/98902315232/11156.mp4
 #EXTINF:0 type="video" channelId="-1", Alfa (2018)
 http://meuplay.shop:80/movie/25678223079/98902315232/11160.mp4
+
+#EXTINF:0 type="video" channelId="-1", Tin & Tina (2023)
+http://trenduhd.xyz:80/movie/cph12ph6/y3irtvbk/362541.mp4
+#EXTINF:0 type="video" channelId="-1", Homem-Formiga e a Vespa: Quantumania (2023)
+http://trenduhd.xyz:80/movie/cph12ph6/y3irtvbk/362480.mp4
+
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
