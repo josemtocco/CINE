@@ -63,6 +63,12 @@ http://162.251.62.55:80/movie/8pbu56wr/9b1mqgu3/342571.mp4
 http://162.251.62.55:80/movie/8pbu56wr/9b1mqgu3/161786.mp4
 #EXTINF:0 type="video" channelId="-1", Esquema de Risco: Operação Fortune (2023)
 http://162.251.62.55:80/movie/8pbu56wr/9b1mqgu3/342177.mp4
+#EXTINF:0 type="video" channelId="-1",3000 Milhas para o Inferno (2001)
+http://162.251.62.55:80/movie/8pbu56wr/9b1mqgu3/157514.mp4
+#EXTINF:0 type="video" channelId="-1", A Dupla Explosiva (2022)
+http://162.251.62.55:80/movie/8pbu56wr/9b1mqgu3/163530.mp4
+#EXTINF:0 type="video" channelId="-1", A Ilha da Garganta Cortada (1995)
+http://162.251.62.55:80/movie/8pbu56wr/9b1mqgu3/149136.mp4
 
 #EXTINF:0 type="video" channelId="-1", Duas Pecadoras e Uma Mula (2023)
 http://meuplay.shop:80/movie/3ipzcy89/e0j4yn30/87114.mp4
@@ -79,9 +85,6 @@ http://meuplay.shop:80/movie/25678223079/98902315232/11160.mp4
 
 #EXTINF:0 type="video" channelId="-1", Tin & Tina (2023)
 http://trenduhd.xyz:80/movie/cph12ph6/y3irtvbk/362541.mp4
-#EXTINF:0 type="video" channelId="-1", Homem-Formiga e a Vespa: Quantumania (2023)
-http://trenduhd.xyz:80/movie/cph12ph6/y3irtvbk/362480.mp4
-
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
