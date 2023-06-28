@@ -114,6 +114,13 @@ http://supertv.red:80/movie/4573975157757/2412003190201/375448.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 
+#EXTINF:0 type="video" channelId="-1", Correndo Contra o Vento (2023)
+http://gftp.pro/get.php?username=laura1&password=1laura&type=m3u_plus&output=ts
+#EXTINF:0 type="video" channelId="-1", Velozes & Furiosos 10 (2023)
+http://listaplay.one:80/movie/laura1/1laura/455214.mkv
+
+#EXTINF:0 type="video" channelId="-1",
+
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
