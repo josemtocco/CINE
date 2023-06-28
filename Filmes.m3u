@@ -109,6 +109,11 @@ http://joao-1-us.mainbkonline.shop:80/movie/476294928340pw/872387287348pw/87112.
 
 #EXTINF:0 type="video" channelId="-1", 
 
+#EXTINF:0 type="video" channelId="-1", Caça-Fantasmas Mais Além (2021)
+http://supertv.red:80/movie/4573975157757/2412003190201/375448.mp4
+
+#EXTINF:0 type="video" channelId="-1",
+
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
