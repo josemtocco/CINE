@@ -128,6 +128,17 @@ http://tntmais.com:80/movie/julianazambonini/brt362070s/10098693.mp4
 #EXTINF:0 type="video" channelId="-1", INUMBER NUMBER: O OURO DE JOANESBURGO (2023)
 http://tntmais.com:80/movie/julianazambonini/brt362070s/10098571.mp4
 
+#EXTINF:0 type="video" channelId="-1",
+
+#EXTINF:0 type="video" channelId="-1", Velozes & Furiosos 10 (2023)
+http://5ce.co:80/movie/7832849f/110355c/226044.mp4
+#EXTINF:0 type="video" channelId="-1", INUMBER NUMBER: O OURO DE JOANESBURGO (2023)
+http://5ce.co:80/movie/7832849f/110355c/225932.mp4
+#EXTINF:0 type="video" channelId="-1", Resgate 2 - 2023
+ http://5ce.co:80/movie/7832849f/110355c/225315.mp4
+
+#EXTINF:0 type="video" channelId="-1",
+
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
