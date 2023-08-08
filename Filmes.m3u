@@ -50,7 +50,7 @@ http://joao-1-us.mainbkonline.shop:80/movie/jtd7768/jtd565657/88977.mp4
 #EXTINF:0 type="video" channelId="-1", Resgate 2 - 2023
 http://joao-1-us.mainbkonline.shop:80/movie/jtd7768/jtd565657/88975.mp4
 #EXTINF:0 type="video" channelId="-1", Resgate em Medelín (2023)
-http://joao-1-us.mainbkonline.shop:80/movie/jtd7768/jtd565657/88549.mp4
+http://joao-1-us.mainbkonline.shop:80/movie/jtd7768/jtd565657/88549.mp4 
 #EXTINF:0 type="video" channelId="-1", Agente Infiltrado (2023)
 http://joao-1-us.mainbkonline.shop:80/movie/jtd7768/jtd565657/86681.mp4
 #EXTINF:0 type="video" channelId="-1", As Semanas Mágicas (2023)
@@ -106,7 +106,11 @@ http://joao-1-us.mainbkonline.shop:80/movie/548732985929/899839349983/89348.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Resgate em Medelín (2023)
-http://piglo.re:80/movie/12345678/87654321/1063005.mp4
+http://7go.xyz:8080/movie/josemariatv/superflix22/313247.mp4
+
+#EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", Resgate em Medelín (2023)
+http://piglo.re:80/movie/41882237/83811154/1209639.mp4
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
