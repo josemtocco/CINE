@@ -111,6 +111,24 @@ http://joao-1-us.mainbkonline.shop:80/movie/535895336/27847986/88255.mp4
 http://joao-1-us.mainbkonline.shop:80/movie/535895336/27847986/87126.mp4
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", Agente Stone (2023)
+http://chronostv.com:80/movie/editvcasa/201278/217180.mp4
+#EXTINF:0 type="video" channelId="-1", Sede Sem Fim (2023)
+http://chronostv.com:80/movie/editvcasa/201278/217176.mp4
+#EXTINF:0 type="video" channelId="-1", Jagun Jagun: O Guerreiro (2023)
+http://chronostv.com:80/movie/editvcasa/201278/217175.mp4
+#EXTINF:0 type="video" channelId="-1", Sinal Divino (2023)
+http://chronostv.com:80/movie/editvcasa/201278/216507.mp4
+#EXTINF:0 type="video" channelId="-1", Operação: Arma Secreta (2023)
+http://chronostv.com:80/movie/editvcasa/201278/215280.mp4
+#EXTINF:0 type="video" channelId="-1", Os Três Mosqueteiros: D’Artagnan (2023)
+http://chronostv.com:80/movie/editvcasa/201278/215283.mp4
+#EXTINF:0 type="video" channelId="-1", Guardiões da Galáxia: Vol. 3 (2023)
+http://chronostv.com:80/movie/editvcasa/201278/215093.mp4
+#EXTINF:0 type="video" channelId="-1", Quando Hitler Roubou o Coelho Cor-de-Rosa (2019)
+http://chronostv.com:80/movie/editvcasa/201278/210225.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
