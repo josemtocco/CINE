@@ -129,6 +129,10 @@ http://chronostv.com:80/movie/editvcasa/201278/215093.mp4
 http://chronostv.com:80/movie/editvcasa/201278/210225.mp4
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1",Jagun Jagun: O Guerreiro (2023)
+http://authenticate.cdn23.click:80/movie/212293788/x956103u/273373.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", A Mãe (2023)
 http://srv.maxptv.net:8080/movie/mx276/1010/115963.mp4
 #EXTINF:0 type="video" channelId="-1", Meus Sogros Tao pro Crime (2023)
