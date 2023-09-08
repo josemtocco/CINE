@@ -210,6 +210,16 @@ http://7go.xyz:8080/movie/5519989016617/989016617/317190.mp4
 http://7go.xyz:8080/movie/5519989016617/989016617/317192.mp4
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1",Agentes Vanguard (2020)
+http://tv.com.vc:80/movie/leticia123/leticia123/923248.mp4
+#EXTINF:0 type="video" channelId="-1", O Estranho Caso do Fantasma Claustrofóbico (2023
+http://tv.com.vc:80/movie/leticia123/leticia123/916728.mp4
+#EXTINF:0 type="video" channelId="-1", O Melhor Lugar da Terra (2023)
+http://tv.com.vc:80/movie/leticia123/leticia123/916725.mp4
+#EXTINF:0 type="video" channelId="-1", O Portal Secreto (2023)
+http://tv.com.vc:80/movie/leticia123/leticia123/916722.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
