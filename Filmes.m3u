@@ -172,8 +172,6 @@ http://7go.xyz:8080/movie/5519989016617/989016617/317190.mp4
 http://7go.xyz:8080/movie/5519989016617/989016617/317192.mp4
 
 #EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",Agentes Vanguard (2020)
-http://tv.com.vc:80/movie/leticia123/leticia123/923248.mp4
 #EXTINF:0 type="video" channelId="-1", O Estranho Caso do Fantasma Claustrofóbico (2023
 http://tv.com.vc:80/movie/leticia123/leticia123/916728.mp4
 #EXTINF:0 type="video" channelId="-1", O Melhor Lugar da Terra (2023)
@@ -190,10 +188,6 @@ http://tv.com.vc:80/movie/leticia123/leticia123/608382.mp4
 http://tv.com.vc:80/movie/leticia123/leticia123/608784.mp4
 #EXTINF:0 type="video" channelId="-1", O Enigma da Medusa (2019)
 http://tv.com.vc:80/movie/leticia123/leticia123/792260.mp4
-#EXTINF:0 type="video" channelId="-1", A Pequena Sereia (2023)
-http://tv.com.vc:80/movie/leticia123/leticia123/922890.mp4
-#EXTINF:0 type="video" channelId="-1", O Que de Verdade Importa (2017)
-http://tv.com.vc:80/movie/leticia123/leticia123/922521.mp4
 #EXTINF:0 type="video" channelId="-1", A Semana da Minha Vida (2021)
 http://tv.com.vc:80/movie/leticia123/leticia123/922526.mp4
 #EXTINF:0 type="video" channelId="-1", A Ilha no Topo do Mundo (1974)
@@ -206,6 +200,19 @@ http://tv.com.vc:80/movie/leticia123/leticia123/606784.mp4
 http://tv.com.vc:80/movie/leticia123/leticia123/879337.mp4
 #EXTINF:0 type="video" channelId="-1", Uma Jornada Entre Irmãos (2020)
 http://tv.com.vc:80/movie/leticia123/leticia123/874295.mp4
+
+#EXTINF:0 type="video" channelId="-1", As Mães de Chico Xavier (2011)
+http://tv.com.vc:80/movie/adriano/adriano123/941791.mp4
+#EXTINF:0 type="video" channelId="-1", Shooting Stars: A Vida de Lebron James (2023)
+http://tv.com.vc:80/movie/adriano/adriano123/938936.mp4
+#EXTINF:0 type="video" channelId="-1", A Justiceira (2023)
+http://tv.com.vc:80/movie/adriano/adriano123/931529.mp4
+#EXTINF:0 type="video" channelId="-1", Feitiçaria (2023)
+http://tv.com.vc:80/movie/adriano/adriano123/931528.mp4
+#EXTINF:0 type="video" channelId="-1", Missão Clandestina (2023)
+http://tv.com.vc:80/movie/adriano/adriano123/931525.mp4
+#EXTINF:0 type="video" channelId="-1", O Tutor (2023)
+http://tv.com.vc:80/movie/adriano/adriano123/931520.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
