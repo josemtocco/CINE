@@ -216,6 +216,10 @@ http://tv.com.vc:80/movie/adriano/adriano123/931525.mp4
 http://tv.com.vc:80/movie/adriano/adriano123/931520.mp4
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", Barbie (2023)
+http://cdn.contentgftp.xyz:80/play/zTFdaQNzE0388dVdOHTOYALMzOR90i7AyFHdmt2s83VMcY8T4SEb7b-zh1TVAx6r#.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
