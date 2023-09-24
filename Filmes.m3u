@@ -172,6 +172,10 @@ http://r2.shiuk.re:80/movie/Marcus979544/869918224699/1210793.mp4
 http://r2.shiuk.re:80/movie/Marcus979544/869918224699/1210871.mp4
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", Barbie (2023)
+http://tv.com.vc:80/movie/luciana123/luciana123/936515.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
