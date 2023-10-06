@@ -186,6 +186,14 @@ http://7go.xyz:8080/movie/2837382/2837337/316627.mp4
 http://r2.shiuk.re:80/movie/N08068/18985827/1212751.mp4
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1",O Portal Secreto (2023)
+http://pkweb.ca:80/movie/zouzph/qejwl1/288597.mp4
+#EXTINF:0 type="video" channelId="-1", A Máquina do Crime 4K (2023)
+http://pkweb.ca:80/movie/zouzph/qejwl1/286862.mp4
+#EXTINF:0 type="video" channelId="-1", Paraíso (2023)
+http://pkweb.ca:80/movie/zouzph/qejwl1/281680.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
