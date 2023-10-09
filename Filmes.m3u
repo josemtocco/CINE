@@ -186,6 +186,15 @@ http://pkweb.ca:80/movie/zouzph/qejwl1/281680.mp4
 #EXTINF:0 type="video" channelId="-1", A Pequena Dixie - 2023
 http://pkweb.ca:80/movie/zouzph/qejwl1/288697.mp4
 
+
+#EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", A Toda Velocidade (2016)
+http://triertri.xyz:80/movie/797677290/023065388/145093.mp4
+#EXTINF:0 type="video" channelId="-1", Desculpe Te Incomodar (2018)
+http://triertri.xyz:80/movie/797677290/023065388/158638.mp4
+#EXTINF:0 type="video" channelId="-1", Em Busca da Carta Proibida (2017)
+http://triertri.xyz:80/movie/797677290/023065388/158660.mp4
+
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
