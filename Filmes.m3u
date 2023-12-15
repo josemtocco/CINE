@@ -5,6 +5,14 @@ https://videos.nxplay.com.br/hls/712b2fe8c19c11ebac0282ffeeb2f3b3/video_1.m3u8
 https://videos.nxplay.com.br/191be1e1-3bc7-4c4a-b91f-fb7852ecd2a2/hls/media-1/stream.m3u8
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", Indiana Jones e A Relíquia do Destino (2023)
+http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/195749.mp4
+#EXTINF:0 type="video" channelId="-1", Paisagem com Mão Invisível (2023)
+http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/195744.mp4
+#EXTINF:0 type="video" channelId="-1",Atraída Pelo Perigo (1990)
+http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/195754.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1",Indiana Jones e A Relíquia do Destino (2023)
 http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/195749.mp4
 #EXTINF:0 type="video" channelId="-1", A Batalha de Natal (2023)
