@@ -5,6 +5,16 @@ https://videos.nxplay.com.br/hls/712b2fe8c19c11ebac0282ffeeb2f3b3/video_1.m3u8
 https://videos.nxplay.com.br/191be1e1-3bc7-4c4a-b91f-fb7852ecd2a2/hls/media-1/stream.m3u8
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1",O Último Caçador de Bruxas (2015)
+http://meumd.com:80/movie/22998802820/2299880/253448.mp4
+#EXTINF:0 type="video" channelId="-1", Resistência (2023)
+http://meumd.com:80/movie/22998802820/2299880/253442.mp4
+#EXTINF:0 type="video" channelId="-1",Plano em Família (2023)
+http://meumd.com:80/movie/22998802820/2299880/253387.mp4
+#EXTINF:0 type="video" channelId="-1",O Coletivo (2023)
+http://meumd.com:80/movie/22998802820/2299880/252051.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Indiana Jones e A Relíquia do Destino (2023)
 http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/195749.mp4
 #EXTINF:0 type="video" channelId="-1", Paisagem com Mão Invisível (2023)
