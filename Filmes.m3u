@@ -5,8 +5,10 @@ https://videos.nxplay.com.br/hls/712b2fe8c19c11ebac0282ffeeb2f3b3/video_1.m3u8
 https://videos.nxplay.com.br/191be1e1-3bc7-4c4a-b91f-fb7852ecd2a2/hls/media-1/stream.m3u8
 
 #EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",As aventiras da Familia Robinson
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_cau5lyh9/v/1/pv/1/ev/11/flavorId/1_x2cbbxrw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9jYXU1bHloOS92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDQxMjM4ODl9fX1dfQ__&Signature=a5T6za3bSx9OgBjITTM2e2GiZ8LS1ZDtjO3Ch6zE4YT542bAvD2htGEdOu3iM5b3K9zIP~EkOnox1mCRkzNhxHLUSMzmrAfsmTgRGcl3y33Em9NOn6VbkrwcYz3rGAeZM9a0KQopSzX4AO~2y2fRqw~HiJ3Dr4mztRAcpO9V4UsvlCS7RA2ZC6dWTrPYhWOoAolNtd2kURj6ogSg8W2M8LNLMLDWQ4kFyBJd768rvhZNaaRM9zo-L2y-iqZXRAvPS-rVIc~Jp8sOQUImWE~uF1ESmx~-oFjL1aRwnS3LIcsF-UogRDD6MDQjMBmvflYTyQLBNHS~3~MO1-gBmMjSTA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:0 type="video" channelId="-1",As Aventuras de Pluto Nash (2002)
+http://schin.cc:80/movie/15522CV/852SD76/193081.mp4
+#EXTINF:0 type="video" channelId="-1", Luccas Neto em: Uma Aventura no Zoológico (2023)
+http://schin.cc:80/movie/15522CV/852SD76/192821.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1",O Último Caçador de Bruxas (2015)
