@@ -4,6 +4,11 @@ https://videos.nxplay.com.br/hls/712b2fe8c19c11ebac0282ffeeb2f3b3/video_1.m3u8
 #EXTINF:0 type="video" channelId="-1", A cabeça de Gumercindo Saraiva
 https://videos.nxplay.com.br/191be1e1-3bc7-4c4a-b91f-fb7852ecd2a2/hls/media-1/stream.m3u8
 
+#EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", O Jogo do Disfarce (2024)
+http://rdns.tv:80/movie/guiney/mariamae20/360650.mp4
+#EXTINF:0 type="video" channelId="-1", Lift: Roubo nas Alturas (2024)
+http://rdns.tv:80/movie/guiney/mariamae20/360692.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", meu maior Amigo
