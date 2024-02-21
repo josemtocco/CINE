@@ -5,6 +5,24 @@ https://videos.nxplay.com.br/hls/712b2fe8c19c11ebac0282ffeeb2f3b3/video_1.m3u8
 https://videos.nxplay.com.br/191be1e1-3bc7-4c4a-b91f-fb7852ecd2a2/hls/media-1/stream.m3u8
 
 #EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", As Marvels (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327243.mp4
+#EXTINF:0 type="video" channelId="-1",O Jogo do Disfarce (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/326801.mp4
+#EXTINF:0 type="video" channelId="-1", Uma Questão de Família (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327162.mp4
+#EXTINF:0 type="video" channelId="-1", Farejando Vingança (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327144.mp4
+#EXTINF:0 type="video" channelId="-1", Aquaman 2: O Reino Perdido (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327119.mp4
+#EXTINF:0 type="video" channelId="-1", As Superpoderosas (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327043.mp4
+#EXTINF:0 type="video" channelId="-1", O Último Caso do Sr. Monk (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327044.mp4
+#EXTINF:0 type="video" channelId="-1", Bons Companheiros (2023)
+http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327117.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Em Ruínas (2024)
 http://mov4.net:80/movie/91497679/35617951/7848639.mp4
 #EXTINF:0 type="video" channelId="-1", "60 Minutos (2024)" 
