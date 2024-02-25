@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1", A história de Wim de A a Z
-https://videos.nxplay.com.br/hls/712b2fe8c19c11ebac0282ffeeb2f3b3/video_1.m3u8
-#EXTINF:0 type="video" channelId="-1", A cabeça de Gumercindo Saraiva
-https://videos.nxplay.com.br/191be1e1-3bc7-4c4a-b91f-fb7852ecd2a2/hls/media-1/stream.m3u8
+#EXTINF:0 type="video" channelId="-1",
+#EXTINF:0 type="video" channelId="-1", As Marvels (2023)
+http://cdn.xcore.ca:80/movie/lbilnf/z5pi91/192721.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", As Marvels (2023)
@@ -27,35 +26,8 @@ http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327044.mp4
 http://195.128.248.216:8080/movie/g7smr3sp/iyzbue1m/327117.mp4
 
 #EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Em Ruínas (2024)
-http://mov4.net:80/movie/91497679/35617951/7848639.mp4
-#EXTINF:0 type="video" channelId="-1", "60 Minutos (2024)" 
-http://mov4.net:80/movie/91497679/35617951/7649940.mp4
-#EXTINF:0 type="video" channelId="-1", A Pequena Travessa (2018)
-http://mov4.net:80/movie/91497679/35617951/7484694.mp4
-#EXTINF:0 type="video" channelId="-1", As Aventuras de Poliana: O Filme (2023)
-http://mov4.net:80/movie/91497679/35617951/7649636.mp4
-#EXTINF:0 type="video" channelId="-1", Dog A Aventura de uma Vida - 2022
-http://mov4.net:80/movie/91497679/35617951/7482485.mp4
-
-#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", O Jogo do Disfarce (2024)
 http://rdns.tv:80/movie/guiney/mariamae20/360650.mp4
-
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",Napoleão (2023)
-http://maincloud.contentgftp.xyz:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68ArcDkDlxqbt8hHTJO-tM3YV#.mkv
-#EXTINF:0 type="video" channelId="-1", Lift: Roubo nas Alturas (2024)
-http://maincloud.contentgftp.xyz:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68AoekLEPifNZT9sc22f8a_j5#.mp4
-#EXTINF:0 type="video" channelId="-1", O Jogo do Disfarce (2024)
-http://maincloud.contentgftp.xyz:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68Ao8ATYq8j6kI-uVOfZ_0v2r#.mkv
-#EXTINF:0 type="video" channelId="-1", Mais Um Tiro Certo (2024)
-http://maincloud.contentgftp.xyz:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68Apc8OLCdtQkE85uYwvY9NyG#.mp4
-#EXTINF:0 type="video" channelId="-1", Alarme de Incêndio (2024)
-http://maincloud.contentgftp.xyz:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68ArAhVLUI9VnjOVZ-mD0XinK#.mkv
-#EXTINF:0 type="video" channelId="-1", 60 Minutos (2024)
-http://maincloud.contentgftp.xyz:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68AoBKgPENLknAx5as6076WF7#.mkv
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1",A Filha do Rei do Pântano
@@ -66,52 +38,6 @@ http://c4n.fun:80/movie/1385447013/8125210223/1060540.mp4
 http://c4n.fun:80/movie/1385447013/8125210223/1060539.mp4
 
 #EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",As Aventuras de Pluto Nash (2002)
-http://schin.cc:80/movie/15522CV/852SD76/193081.mp4
-#EXTINF:0 type="video" channelId="-1", Luccas Neto em: Uma Aventura no Zoológico (2023)
-http://schin.cc:80/movie/15522CV/852SD76/192821.mp4
-#EXTINF:0 type="video" channelId="-1", A Fuga das Galinhas: A Ameaça dos Nuggets (2023)
-http://schin.cc:80/movie/15522CV/852SD76/196491.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",O Último Caçador de Bruxas (2015)
-http://meumd.com:80/movie/22998802820/2299880/253448.mp4
-#EXTINF:0 type="video" channelId="-1", Resistência (2023)
-http://meumd.com:80/movie/22998802820/2299880/253442.mp4
-#EXTINF:0 type="video" channelId="-1",Plano em Família (2023)
-http://meumd.com:80/movie/22998802820/2299880/253387.mp4
-#EXTINF:0 type="video" channelId="-1",O Coletivo (2023)
-http://meumd.com:80/movie/22998802820/2299880/252051.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Indiana Jones e A Relíquia do Destino (2023)
-http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/195749.mp4
-#EXTINF:0 type="video" channelId="-1", Paisagem com Mão Invisível (2023)
-http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/195744.mp4
-#EXTINF:0 type="video" channelId="-1",Atraída Pelo Perigo (1990)
-http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/195754.mp4
-#EXTINF:0 type="video" channelId="-1", 12 Horas Para o Fim do Mundo (2023)
-http://schin.cc:80/movie/yOUpUWAV/AYqV1PNE/196465.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",Indiana Jones e A Relíquia do Destino (2023)
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/195749.mp4
-#EXTINF:0 type="video" channelId="-1", A Batalha de Natal (2023)
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/195735.mp4
-#EXTINF:0 type="video" channelId="-1", Jornada Para o Inferno (2023)
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/195740.mp4
-#EXTINF:0 type="video" channelId="-1",Perdida no Deserto (2023)
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/196188.mp4
-#EXTINF:0 type="video" channelId="-1", Silver e o Livro dos Sonhos (2023)
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/196189.mp4
-#EXTINF:0 type="video" channelId="-1", The Archies (2023)
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/196190.mp4
-#EXTINF:0 type="video" channelId="-1", Há Algo no Celeiro (2023)
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/196191.mp4
-#EXTINF:0 type="video" channelId="-1", O Livro dos Sonhos (2023
-http://pdsrv.io:80/movie/7xq4wtgt/la4qibcd/196176.mp4
-
-#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", A Milhões de Quilômetros (2023)
 http://joao-1-us.mainbkonline.shop:80/movie/2022556589/2245441258/91223.mp4
 #EXTINF:0 type="video" channelId="-1", À Espreita (2023)
@@ -120,14 +46,6 @@ http://joao-1-us.mainbkonline.shop:80/movie/2022556589/2245441258/91250.mp4
 http://joao-1-us.mainbkonline.shop:80/movie/2022556589/2245441258/91283.mp4
 #EXTINF:0 type="video" channelId="-1", Camaleões (2023)
 http://joao-1-us.mainbkonline.shop:80/movie/2022556589/2245441258/91285.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Resgate 2 - 2023
- http://5ce.co:80/movie/7832849f/110355c/225315.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Rainhas em Fuga (2023)
-http://joao-1-us.mainbkonline.shop:80/movie/8623690767/8623695554/86394.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Resgate 2 - 2023
@@ -170,102 +88,8 @@ http://joao-1-us.mainbkonline.shop:80/movie/929858919482/094699824843/89144.mp4
 http://joao-1-us.mainbkonline.shop:80/movie/929858919482/094699824843/89762.mp4
 
 #EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",10 Dias de um Homem Bom (2023)
-http://joao-1-us.mainbkonline.shop:80/movie/548732985929/899839349983/86060.mp4
-#EXTINF:0 type="video" channelId="-1", A Descoberta Perfeita (2023)
-http://joao-1-us.mainbkonline.shop:80/movie/548732985929/899839349983/89348.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Sede Sem Fim (2023
-http://authenticate.cdn23.click:80/movie/212293788/x956103u/273270.mp4
-#EXTINF:0 type="video" channelId="-1", Ruby Marinho - Monstro Adolescente (2023)
-http://authenticate.cdn23.click:80/movie/212293788/x956103u/272702.mp4
-
-#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", A Aranha Negra (2023)
 http://assista.pro:80/movie/5511985089465/25282898/324826.mp4
-
-#EXTINF:0 type="video" channelId="-1", Uma Viagem Incrível: O Mistério do Ovo (2021)
-http://tv.com.vc:80/movie/luciana123/luciana123/610167.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Paraíso (2023)
-http://pkweb.ca:80/movie/zouzph/qejwl1/281680.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Desculpe Te Incomodar (2018)
-http://triertri.xyz:80/movie/797677290/023065388/158638.mp4
-#EXTINF:0 type="video" channelId="-1", Em Busca da Carta Proibida (2017)
-http://triertri.xyz:80/movie/797677290/023065388/158660.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Jack Walker, Um Herói em Ação (2021)
-http://tv.com.vc:80/movie/wellington123/wellington123/959224.mp4
-#EXTINF:0 type="video" channelId="-1", Sou Espião (2002)
-http://tv.com.vc:80/movie/wellington123/wellington123/958407.mp4
-#EXTINF:0 type="video" channelId="-1", Coração de Caçador (1990)
-http://tv.com.vc:80/movie/wellington123/wellington123/965362.mp4
-#EXTINF:0 type="video" channelId="-1", Pequenos Invasores (2009)
-http://tv.com.vc:80/movie/wellington123/wellington123/964556.mp4
-#EXTINF:0 type="video" channelId="-1", Código de Lei (2021)
-http://tv.com.vc:80/movie/wellington123/wellington123/961907.mp4
-#EXTINF:0 type="video" channelId="-1", A Força em Alerta 2 (1995)
-http://tv.com.vc:80/movie/wellington123/wellington123/954237.mp4
-#EXTINF:0 type="video" channelId="-1", Vingança Solitária (2020)
-http://tv.com.vc:80/movie/wellington123/wellington123/954228.mp4
-#EXTINF:0 type="video" channelId="-1", Violação de Conduta (2003)
-http://tv.com.vc:80/movie/wellington123/wellington123/954227.mp4
-#EXTINF:0 type="video" channelId="-1", Temporada de Caça (2013)
-http://tv.com.vc:80/movie/wellington123/wellington123/954222.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",Belas e Recatadas (2023)
-http://tv.com.vc:80/movie/melissa/melissa123/967780.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", A Lista da Vinganca - 2023
-http://shiuk.re:80/movie/69754975151350/327826184369/1327.mp4
-
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", A Roleta da Morte (2023)
-http://capivara.top:80/play/qnmVTkcJjXCa6gh0JaJFmnDzApGdf5Hi9kR49GIUwUqxmYWNfaFC4YObJJ1_C3GO#.mp4
-#EXTINF:0 type="video" channelId="-1", Belo Desastre (2023)
-http://capivara.top:80/play/qnmVTkcJjXCa6gh0JaJFmoc9uWg53WFE_B17T0U_YjZrhhtqRqqqUY5JY8mWsAEn#.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", A Outra Zoey (2023)
-http://capivara.top:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68AoJTb1Uj4mB4kDIIEDN54SW#.mp4
-#EXTINF:0 type="video" channelId="-1", Terra das Oportunidades (2023)
-http://capivara.top:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68ArrrvHEsXCpQhXo0LO6EhoB#.mp4
-#EXTINF:0 type="video" channelId="-1",Tiozões (2023)
-http://capivara.top:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68AprTVba2j5ooGX4uVZsz_i1#.mp4
-#EXTINF:0 type="video" channelId="-1", Jogando a Linha (2023)
-http://capivara.top:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68AqkRPHi4rPnYmgJo9cdyJV5#.mp4
-#EXTINF:0 type="video" channelId="-1", Filha do Prisioneiro (2023)
-http://capivara.top:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68AofCCM4Rv9-sN5jI-819qcF#.mp4
-#EXTINF:0 type="video" channelId="-1", Mate-me se Puder (2023)
-http://capivara.top:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68AovPjGPyW2AQaI9QX1UCqcg#.mp4
-#EXTINF:0 type="video" channelId="-1", Carga Máxima (2023)
-http://capivara.top:80/play/Tl29_8m5_n8Dk6dJ6MXzS2478p9jZ6dU0SzcSTx68Arpx2lKIQ7l-bJRwYMmYUBg#.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",Infinito (2021)
-http://capivara.top:80/play/OeXYaAkUt6B0D3nbdd7AD6Wi55E-BLlDEqxTq9bxF5kcJ2la7eBr61cNra7R49Bz#.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", S.O.S. do Divórcio (2023)
-http://tv.com.vc:80/movie/ruth/123/971854.mp4
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1",Apaches: Gangues de Paris (2023)
-http://tcs.cx:80/movie/588869204133/094654549310/3297351.mkv
-
-#EXTINF:0 type="video" channelId="-1",
-#EXTINF:0 type="video" channelId="-1", Antes que Termine o Dia (2004)
-http://p2reep.xyz:80/movie/122853629/871295689/145369.mp4
-#EXTINF:0 type="video" channelId="-1", Demonios (2017)
-http://p2reep.xyz:80/movie/122853629/871295689/159407.mkv
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Agentes Duplos (2018)
