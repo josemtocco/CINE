@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", Missao Condor (2023)
+http://oneplaytv.red:80/movie/Cleber2023/Cleber2023/954197.mp4
+#EXTINF:0 type="video" channelId="-1",Projeto Dinossauro (2012)
+http://oneplaytv.red:80/movie/Cleber2023/Cleber2023/929487.mp4
+
 #EXTINF:0 type="video" channelId="-1", As Marvels (2023)
 http://cdn.xcore.ca:80/movie/lbilnf/z5pi91/192721.mp4
 
