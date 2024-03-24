@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", Cão e Gato (2024)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/329715.mp4
+#EXTINF:0 type="video" channelId="-1", Gato Galáctico e o feitiço do tempo (2024)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/329716.mp4
+#EXTINF:0 type="video" channelId="-1",Madame Teia (2024)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/329717.mp4
+#EXTINF:0 type="video" channelId="-1",Assassinato de Elite (2024)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/329695.mp4
+#EXTINF:0 type="video" channelId="-1", O Livro de Clarence (2024)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/329696.mp4
+#EXTINF:0 type="video" channelId="-1",Vidas Passadas (2023)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/329175.mp4
+#EXTINF:0 type="video" channelId="-1",As Aventuras de Poliana - O Filme (2023)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/327049.mp4
+#EXTINF:0 type="video" channelId="-1",Ghostbusters: Mais Além (2022)
+http://195.128.248.216:8080/movie/HEJdAd9h/lK55Wj3I/97862.mp4
 
 #EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", A Aranha Negra (2023)
