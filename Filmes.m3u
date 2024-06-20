@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1",Cinzas - 2024
+http://game.shiuk.re:80/movie/bvv3025/bvv3026/10240.mp4
+#EXTINF:0 type="video" channelId="-1",Argylle  O Superespiao - 2024
+http://game.shiuk.re:80/movie/bvv3025/bvv3026/10247.mp4
+#EXTINF:0 type="video" channelId="-1",Xeque Mate - 2024
+http://game.shiuk.re:80/movie/bvv3025/bvv3026/10248.mp4
+#EXTINF:0 type="video" channelId="-1",Turma da Monica Jovem Reflexos do Medo - 2024
+http://game.shiuk.re:80/movie/bvv3025/bvv3026/10249.mp4
+#EXTINF:0 type="video" channelId="-1",Zona de Risco - 2024
+http://game.shiuk.re:80/movie/bvv3025/bvv3026/10257.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1",Beekeeper Rede de Vinganca - 2024
 http://game.shiuk.re:80/movie/365845/783654/10253.mp4
 #EXTINF:0 type="video" channelId="-1",Meninas Malvadas - 2024
