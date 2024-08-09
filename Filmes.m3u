@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", Nosso Lar 2: Os Mensageiros (2024)
+http://dnsbr.xyz:80/get.php?username=6528371637pw&password=7483661471&type=m3u_plus
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Mamonas Assassinas: O Filme (2023
 http://game.shiuk.re:80/movie/32197664/65428997/1321165.mp4
 #EXTINF:0 type="video" channelId="-1", Cassino (2024)
@@ -6,6 +10,7 @@ http://game.shiuk.re:80/movie/32197664/65428997/1322206.mp4
 #EXTINF:0 type="video" channelId="-1",Virus (2024)
 http://game.shiuk.re:80/movie/32197664/65428997/1326231.mp4
 
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1",Indiferenca - 2024
 http://hubby.bz/movie/lbs8382sheihs-vods/H4C1iWdUiJ/52018.mp4
 #EXTINF:0 type="video" channelId="-1",O Livro de Clarence - 2024
