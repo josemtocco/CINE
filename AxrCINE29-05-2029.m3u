@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Charlie: Um Cachorro Especial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jSjNlbScgnR4w8VSO0lcJdhHJI.jpg" group-title="AVENTURA",Charlie: Um Cachorro Especial (2022)
+http://178.162.193.239:2052/movie/cprimemain-dYAHGahjp2/8mQ8qZ39wd/147999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tributo  Lea Garcia - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp4CV7uYaP13RRWXg6imLNzYsb1.jpg" group-title="FILMES | 2023",Tributo  Lea Garcia - 2023
 http://axr.life:80/movie/455619/933360/2640000.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bares Bolos e Amizades - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98trDKdoX997KOF4i3xJL6vuXKl.jpg" group-title="FILMES | 2023",Bares Bolos e Amizades - 2023
