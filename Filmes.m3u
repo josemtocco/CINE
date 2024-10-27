@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1",Charlie: Um Cachorro Especial (2022)
+http://xciptv.8888play.one:80/movie/879083380/b350V7430w/319665.mp4
+#EXTINF:0 type="video" channelId="-1", Blueback: Uma Amizade Profunda (2022)
+http://xciptv.8888play.one:80/movie/879083380/b350V7430w/314152.mp4
+
+#EXTINF:0 type="video" channelId="-1",
 #EXTINF:0 type="video" channelId="-1", Adventures of the Wilderness Family
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_cau5lyh9/v/1/pv/1/ev/11/flavorId/1_x2cbbxrw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9jYXU1bHloOS92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mjk1MTc0MzN9fX1dfQ__&Signature=UswGSnabkfOgGJoajcLtg58G97ZLgREeK8ADLLT-rYVjozyjYZ-kBa~oZNmiAH~Bk~5WpFyqhPYG1UCak~O3Wplezo8Kax3r5Zb3Lhntx60CyA~qOMpX~DVDb3Ss-dTj5p88gBGbOn-gEMDMh3C2y~tYtxPJucYBZIdD7FtAWs31eV7VTquibw9ZgDgso64bCLH~zjR7CLGFhX-I4GhjQCisNqjRMjQMDKBPKBx555zqQi0NTzks~Wof9sm6wpEfJ6~ANvPIfn26m6dsfIekloaeHz41GkCA0YAz~hEzpdNTIRqvptEZE6BsiD-oJ5IAUroYcel-Mc6l3B0I~SBWfA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:0 type="video" channelId="-1", Missão: Impossível - Acerto de Contas Parte 
