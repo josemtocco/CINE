@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1",De volta a Ação
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/171665.mp4
-#EXTINF:0 type="video" channelId="-1", Em busca doa cálice Sagrado
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/172049.mp4
-#EXTINF:0 type="video" channelId="-1", Star Trek: Secção 31 (2025)
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/172054.mp4
-#EXTINF:0 type="video" channelId="-1", Missão Ataque (2025)
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/172058.mp4
-#EXTINF:0 type="video" channelId="-1", A Vigia
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/172051.mp4
-#EXTINF:0 type="video" channelId="-1", O Homem que Quer Viver para Sempre (2025)
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/172069.mp4
-#EXTINF:0 type="video" channelId="-1", Casamentos Cruzados (2025)
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/172052.mp4
-#EXTINF:0 type="video" channelId="-1",Aqui
-http://84.16.253.162:2052/movie/cprimemain-b1TmkvSkWH/5Q58VbnTxa/172050.mp4
+#EXTINF:0 type="video" channelId="-1", Lobisomen
+http://7semfronteiras.cc:8080/movie/5193271958/5193271ips1/345315.mp4
+#EXTINF:0 type="video" channelId="-1", Missão  Porto seguro
+http://7semfronteiras.cc:8080/movie/5193271958/5193271ips1/342993.mp4
